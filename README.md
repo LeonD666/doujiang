@@ -27,6 +27,5 @@
 
 店铺营业时间：周一到周日，早上7点至晚上9点
 
-<span style="color:red;">欢迎来电咨询！</span>
-**<span style="color:red;">欢迎来电咨询！</span>**
-<span style="color:red; font-weight:bold;">欢迎来电咨询</span>
+
+**<p align="center">欢迎来电咨询！</p>**
